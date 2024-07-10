@@ -1,0 +1,11 @@
+identifier: l5ybf0i9o3h7o3o1
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular-scully
+homeFolder: /Users/a1234/Desktop/Work/angular/angular-scully
+distFolder: ./dist/angular-scully/browser
+outDir: /Users/a1234/Desktop/Work/angular/angular-scully/dist/static
+handle404: ''
+allowErrorCollect: false
